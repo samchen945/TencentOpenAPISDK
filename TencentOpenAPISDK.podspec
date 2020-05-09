@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name                = "TencentOpenAPISDK"
   s.homepage            = "http://wiki.open.qq.com"
-  s.version             = "3.3.3"
+  s.version             = "3.3.9"
   s.summary             = "Tencent Open API SDK for iOS."
   s.license             = "MIT"
   s.author              = { "OpenQQ" => "opensupport@qq.com" }
